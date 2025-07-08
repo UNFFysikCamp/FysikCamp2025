@@ -1,0 +1,33 @@
+**Delete this cell after all energy calibration data has been transferred to 'Calibration_data.txt'**
+
+Creating a list consisting of the found peaks, errors and the corresponding energy. In the parenthesis is the initial guesses used to fit the peak. The following data is also available in the file 'Calibration_data.txt' found at /data/workspace_files/Øvelse 2/Calibration_data.txt
+
+
+Channel_peak, Uncertainty, Energy, Initial_guesses
+
+Cs:
+
+1066    0.24    30.62487    (10, 1055, 10) 
+
+1199    0.33    34.9858 (10, 1200, 10)
+
+Fe:
+
+222     0.03    5.89    (800, 225, 10)
+
+241     0.076   6.49    (150, 250, 10)
+
+
+Am:
+
+450     0.11    13.9    (10, 450, 10)
+
+546     0.32    16.84   (20, 540, 1), range=10
+
+572     0.15    17.7502 (20, 570, 1)
+
+670     0.26    20.7848 (20, 670, 5)
+
+845     0.33    26.3446 (20, 850, 5)
+
+1902    0.45    59.5409  (10, 1900, 1)
