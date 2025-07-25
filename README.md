@@ -1,2 +1,2 @@
-# FysikCamp2024
-Tilhørende matriale til fysik camp 2024
+# FysikCamp 2025
+Materiale til FysikCamp 2025
